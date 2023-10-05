@@ -2,21 +2,21 @@
   "name": "proyecto-migue",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "dev": ""
+    "dev": "nodemon -L"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ErikCasas/proyecto-unicersidad-miguel.git"
+    "url": "git+https://github.com/ErikCasas/proyecto-universidad-miguel.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ErikCasas/proyecto-unicersidad-miguel/issues"
+    "url": "https://github.com/ErikCasas/proyecto-universidad-miguel/issues"
   },
-  "homepage": "https://github.com/ErikCasas/proyecto-unicersidad-miguel#readme",
+  "homepage": "https://github.com/ErikCasas/proyecto-universidad-miguel#readme",
   "dependencies": {
     "dotenv": "16.3.1",
     "express": "4.18.2",
